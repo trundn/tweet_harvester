@@ -1,0 +1,232 @@
+{
+    "streaming": {
+        "locations": [
+            113.338953078,
+            -43.6345972634,
+            153.569469029,
+            -10.6681857235
+        ]
+    },
+    "searching": {
+        "users": [
+            "WHO",
+            "healthgovau"
+        ],
+        "authens": {
+            "account0": {
+                "api_key": "",
+                "api_secret_key": "",
+                "access_token": "",
+                "access_token_secret": ""
+            },
+            "account1": {
+                "api_key": "",
+                "api_secret_key": "",
+                "access_token": "",
+                "access_token_secret": ""
+            }
+        }
+    },
+    "tweetids": {
+        "folders": [
+            "/data/app/harvest/dataset"
+        ],
+        "executors": {
+            "num_thread_per_process": 3,
+            "thread_names_rank_0": [
+                "tweetid_thread_1_rank_0",
+                "tweetid_thread_2_rank_0",
+                "tweetid_thread_3_rank_0"
+            ],
+            "thread_names_rank_1": [
+                "tweetid_thread_1_rank_1",
+                "tweetid_thread_2_rank_1",
+                "tweetid_thread_3_rank_1"
+            ]
+        },
+        "authens": {
+            "rank_0": {
+                "account0": {
+                    "thread_owner": "tweetid_thread_1_rank_0",
+                    "api_key": "",
+                    "api_secret_key": "",
+                    "access_token": "",
+                    "access_token_secret": ""
+                },
+                "account1": {
+                    "thread_owner": "tweetid_thread_2_rank_0",
+                    "api_key": "",
+                    "api_secret_key": "",
+                    "access_token": "",
+                    "access_token_secret": ""
+                },
+                "account2": {
+                    "thread_owner": "tweetid_thread_3_rank_0",
+                    "api_key": "",
+                    "api_secret_key": "",
+                    "access_token": "",
+                    "access_token_secret": ""
+                }
+            },
+            "rank_1": {
+                "account0": {
+                    "thread_owner": "tweetid_thread_1_rank_1",
+                    "api_key": "",
+                    "api_secret_key": "",
+                    "access_token": "",
+                    "access_token_secret": ""
+                },
+                "account1": {
+                    "thread_owner": "tweetid_thread_2_rank_1",
+                    "api_key": "",
+                    "api_secret_key": "",
+                    "access_token": "",
+                    "access_token_secret": ""
+                },
+                "account2": {
+                    "thread_owner": "tweetid_thread_3_rank_1",
+                    "api_key": "",
+                    "api_secret_key": "",
+                    "access_token": "",
+                    "access_token_secret": ""
+                }
+            }
+        }
+    },
+    "ruling_politicians": [
+        "ScottMorrisonMP",
+        "DanielAndrewsMP",
+        "GladysB",
+        "AnnastaciaMP",
+        "MarkMcGowanMP",
+        "TurnbullMalcolm",
+        "HonTonyAbbott",
+        "PeterDutton_MP",
+        "JoshFrydenberg",
+        "stuartrobertmp",
+        "PaulFletcherMP",
+        "IanGoodenoughMP",
+        "SenatorCash",
+        "DanTehanWannon"
+    ],
+    "opposition_politicians": [
+        "billshortenmp",
+        "AlboMP",
+        "MrKRudd",
+        "JuliaGillard",
+        "RealBobKatter",
+        "fitzhunter",
+        "SharonBirdMP",
+        "JulieCollinsMP",
+        "Tony_Burke",
+        "AdamBandt",
+        "sarahinthesen8",
+        "tanya_plibersek",
+        "SenatorWong"
+    ],
+    "track": [
+        "covid",
+        "covidsafe",
+        "covid19",
+        "covid-19",
+        "covid_19",
+        "ccpvirus",
+        "corona",
+        "coronavirus",
+        "coronapocalypse",
+        "coronavirusoutbreak",
+        "coronaviruspandemic",
+        "CoronaWorld",
+        "ccpvirus",
+        "chinavirus",
+        "wuhan",
+        "wuhanvirus",
+        "safehands",
+        "viewfrommywindow",
+        "togetherathome",
+        "sarscov2",
+        "sars cov2",
+        "sars-cov-2",
+        "pandemic",
+        "epidemic",
+        "quarantine",
+        "self-quarantine",
+        "self quarantine",
+        "isolation",
+        "self-isolation",
+        "self isolation",
+        "stayhome",
+        "stayhome2020",
+        "stayathome",
+        "staythefuckathome",
+        "lockdown", 
+        "lockdown2020",
+        "socialdistancing",
+        "social distancing",
+        "social-distancing",
+        "flattenthecurve",
+        "flatten-the-curve",
+        "flatten the curve",
+        "DrTedros",
+        "worldhealthorganisation",
+        "endthelockdown",
+        "endlesslockdown",
+        "notoiletroll",
+        "notoiletpaper",
+        "notissue",
+        "toiletpapercrisis",
+        "新冠肺炎",
+        "新型冠狀病毒",
+        "新冠病毒",
+        "冠狀病毒",
+        "肺炎",
+        "隔離",
+        "自主隔離",
+        "居家檢疫",
+        "自主健康管理", 
+        "社交距離",
+        "疫情",
+        "確診",
+        "世界衛生組織",
+        "世衛",
+        "新型冠状病毒",
+        "冠状病毒",
+        "隔离",
+        "自主隔离",
+        "居家检疫",
+        "自主健康管理", 
+        "社交距离",
+        "确诊",
+        "世界卫生组织",
+        "世卫",
+        "新型コロナウイルス",
+        "新型のコロナウイルス",
+        "コロナウイルス",
+        "しんがたコロナウイルス",
+        "かんせんかくにん",
+        "パンデミック",
+        "オーバーシュート",
+        "ソーシャルディスタンス",
+        "世界保健機関"
+    ],
+    "user_location_filers": [
+        "australia",
+        "new south wales",
+        "victoria",
+        "queensland",
+        "western australia",
+        "south australia",
+        "tasmania",
+        "canberra",
+        "northern territory",
+        "melbourne",
+        "sydney",
+        "brisbane",
+        "gold coast",
+        "perth",
+        "adelaide"
+    ],
+    "geometry_filters": [
+        "auCoordinates.json"
+    ]
+}
